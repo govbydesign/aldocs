@@ -1,8 +1,10 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [👓 Drupal terminology](entities/terms.md)
-* [Get to know your components](components/README.md)
+
+* [Drupal terminology](terms.md)
+
+* [Components](components/README.md)
   * [Article list](components/article-list.md)
   * [Button](components/button.md)
   * [Custom text](components/custom-text.md)
@@ -21,17 +23,16 @@
   * [Header links bar](components/header-links-bar.md)
   * [Get to know your website components](components/get-to-know-your-website-components.md)
 
-## 💧 Drupal entities
-
-* [Content types](drupal-entities/content-types.md)
-* [Forms](drupal-entities/forms.md)
-* [Media](drupal-entities/media/README.md)
-  * [Documents](drupal-entities/media/documents.md)
-  * [Images](drupal-entities/media/images.md)
-* [Paragraph types](drupal-entities/paragraph-types.md)
-* [Taxonomy](drupal-entities/taxonomy.md)
-* [Menus](drupal-entities/menus.md)
-* [Users](drupal-entities/users.md)
+* [Drupal entities](entities/README.md)
+  * [Content types](entities/content-types.md)
+  * [Forms](entities/forms.md)
+  * [Media](entities/media/README.md)
+    * [Documents](entities/media/documents.md)
+    * [Images](entities/media/images.md)
+  * [Paragraph types](entities/paragraph-types.md)
+  * [Taxonomy](entities/taxonomy.md)
+  * [Menus](entities/menus.md)
+  * [Users](entities/users.md)
 
 ## 📖 Managing Content
 
