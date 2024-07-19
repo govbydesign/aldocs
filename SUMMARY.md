@@ -34,11 +34,10 @@
   * [Menus](entities/menus.md)
   * [Users](entities/users.md)
 
-## 📖 Managing Content
-
-* [Alert](content/alert.md)
-* [Basic page](content/basic-page.md)
-* [Landing page](content/landing-page.md)
-* [Location](content/location.md)
-* [News](content/news.md)
-* [Procedures](content/procedures.md)
+* [Managing Content](content/README.md)
+  * [Alert](content/alert.md)
+  * [Basic page](content/basic-page.md)
+  * [Landing page](content/landing-page.md)
+  * [Location](content/location.md)
+  * [News](content/news.md)
+  * [Procedures](content/procedures.md)
