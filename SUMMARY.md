@@ -1,10 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-
-* [Drupal terminology](entities/terms.md)
-
-* [Components](components/README.md)
+* [👓 Drupal terminology](entities/terms.md)
+* [Get to know your components](components/README.md)
   * [Article list](components/article-list.md)
   * [Button](components/button.md)
   * [Custom text](components/custom-text.md)
