@@ -1,3 +1,7 @@
+---
+description: Learning the Drupal lingo is important to be a successful content manager.
+---
+
 # Drupal terminology
 
 Like any other technology, there is specific lingo unique to that technology which is critical to become familiar with to more effectively work with the technology. Drupal is no different and there are many terms we need to learn for a better experience.
