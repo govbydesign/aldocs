@@ -14,7 +14,7 @@ This is a guide to provide step-by-step instructions on how to work with Drupal 
 
 ## Table of contents
 
-* [Drupal terminology](entities/terms.md)
+* [Drupal terminology](terms.md)
 * Drupal architecture
 * Working with Components
 * Creating content

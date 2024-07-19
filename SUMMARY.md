@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-
 * [Drupal terminology](terms.md)
-
 * [Components](components/README.md)
   * [Article list](components/article-list.md)
   * [Button](components/button.md)
@@ -15,14 +13,9 @@
   * [Icon card set](components/icon-card-set.md)
   * [Image block](components/image-block.md)
   * [Links list](components/links-list.md)
-  * [CTA Card](components/cta-card.md)
   * [Quicklinks](components/quicklinks.md)
   * [Quicklinks set](components/quicklinks-set.md)
   * [Quote](components/quote.md)
-  * [Galleries](components/galleries.md)
-  * [Header links bar](components/header-links-bar.md)
-  * [Get to know your website components](components/get-to-know-your-website-components.md)
-
 * [Drupal entities](entities/README.md)
   * [Content types](entities/content-types.md)
   * [Forms](entities/forms.md)
@@ -33,7 +26,6 @@
   * [Taxonomy](entities/taxonomy.md)
   * [Menus](entities/menus.md)
   * [Users](entities/users.md)
-
 * [Managing Content](content/README.md)
   * [Alert](content/alert.md)
   * [Basic page](content/basic-page.md)
