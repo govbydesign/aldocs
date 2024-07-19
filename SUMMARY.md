@@ -21,7 +21,7 @@
 * [Quote](components/quote.md)
 * [Galleries](components/galleries.md)
 * [Header links bar](components/header-links-bar.md)
-* [Page 1](components/page-1.md)
+* [Get to know your website components](components/get-to-know-your-website-components.md)
 
 ## 💧 Drupal entities
 
