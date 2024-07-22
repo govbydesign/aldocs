@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Drupal terminology](terms.md)
+* [Login](login.md)
 * [Knowing your components](components/README.md)
   * [Button](components/button.md)
   * [Custom text](components/custom-text.md)
