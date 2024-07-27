@@ -2,7 +2,11 @@
 
 There are times when you need a link to stand out or have an important call to action you want to make sure it is not missed. Using a button component is very effective and also visually appealing
 
-![Button component](../.gitbook/assets/btn.png)
+<div align="left">
+
+<img src="../.gitbook/assets/btn.png" alt="Button component" width="360">
+
+</div>
 
 The fields that make up the button include:
 
