@@ -1,0 +1,12 @@
+{
+  "name": "almdocs",
+  "version": "1.0.0",
+  "description": "--- description: >-   This guide will help you to successfully maintain and organize content for   your website. The step-by-step instructions have been tailored for you. ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
