@@ -14,7 +14,7 @@ Menus can be managed in several ways in Drupal, you can manage them directly in 
 
 
 
-{% hint style="info" %}
+{% hint style="success" %}
 When linking to an internal page, ensure you only include the page's slug rather than the entire site's URL.  For example:
 
 **Use:** _/link-to-my-page_

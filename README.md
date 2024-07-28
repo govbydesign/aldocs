@@ -10,9 +10,9 @@ description: >-
 
 In an effort to provide you with a well-structured guide, we have grouped the content of it in three different groups:
 
-1. Knowing your components
-2. Drupal entities
-3. Managing content
+1. [Knowing your components](components/)
+2. [Drupal entities](entities/)
+3. [Managing content](content/)
 
 Each of the three groups above is filed with great content that will help you fully understand not only the architecture and layout of your website, but also how to become more efficient in managing the content that is so critical to your visitors.
 

@@ -29,7 +29,7 @@ Sometimes you may need to edit users to do things like change their password, th
 3. At the far right of the selected user, Click the **Edit** link
 4. Make any adjustments you need to make and save your changes
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **IMPORTANT**
 
 For security reason, if an account is not being actively used, it's best to set it to **Blocked**.

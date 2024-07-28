@@ -1,3 +1,7 @@
+---
+description: Images, files, documents, forms, and videos, are examples of media.
+---
+
 # Media
 
 Your website offers a media management system which allows you to upload various types of media such as images, files, and videos, and reuse them as many time as needed without having to upload the same media item twice.&#x20;
