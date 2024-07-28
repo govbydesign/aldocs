@@ -2,6 +2,8 @@
 
 A two-column Landing page allows you to build a page with a Full breaker at top, and directly under it, you can have **main content** and **sidebar** areas.
 
+<figure><img src="../.gitbook/assets/two-column (1).png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
+
 ### Creating a two-column landing page
 
 1. From your website's administrative toolbar (top of your site), click the **Content** link
