@@ -6,6 +6,8 @@ description: Create Oral histories, Events, and About our building content
 
 This content type is one of the most custom in the entire site. Although it is a single content type, it generates content for various sections of the site depending on the page type selection during content creation.
 
+<figure><img src="../.gitbook/assets/oral.png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
+
 ### Creating a new page
 
 #### Page type and breaker
