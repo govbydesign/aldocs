@@ -18,7 +18,7 @@ User management is one of Drupal's most robust and advanced features.
 1. While in the People page
 2. Check the checkbox next to the user you wish to update. You should see the **Actions** diago which provides many actions you can take with the selected user.  See **Fig. 1** below.
 
-<figure><img src="../.gitbook/assets/users.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/users.png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
 
 ### Editing users
 
