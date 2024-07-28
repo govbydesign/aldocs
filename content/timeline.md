@@ -4,6 +4,8 @@ description: Timelines are great for creating history events timelines
 
 # Timeline
 
+<figure><img src="../.gitbook/assets/timelines.png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
+
 ### Create a timeline
 
 1. From your website's administrative toolbar (top of your site), click the **Content** link
