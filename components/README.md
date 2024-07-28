@@ -5,10 +5,29 @@ description: >-
   building blocks or components.
 ---
 
-# Get to know your components
+# Knowing your components
 
-This section will introduce you to all the components available to you tu build pages and improve the user experience for your visitors.
+This section will introduce you to all the components available to you to build pages and improve the user experience for your visitors.
 
-* Button
-* Title
-* Label
+Although the list of components is not extensive, they have been built with many customizations which will allow you to tailor them to your content display needs.
+
+### Simple components
+
+* [Button](button.md)
+* [Custom text](custom-text.md)
+* [Image block](image-block.md)
+* [Quote](quote.md)
+
+### Media components
+
+* [Full breaker](full-breaker.md)
+* [Hero](hero.md)
+* [Icon card set](icon-card-set.md)
+
+### Lists components
+
+* [Article list](article-list.md)
+* [Content list](content-list.md)
+* [FAQs](faq.md)
+* [Quicklinks](quicklinks.md)
+* [Quicklinks list](quicklinks-set.md)
