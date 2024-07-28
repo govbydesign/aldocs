@@ -21,7 +21,6 @@
   * [Content types](entities/content-types.md)
   * [Media](entities/media/README.md)
     * [Documents and Forms](entities/media/forms.md)
-    * [Images](entities/media/images.md)
   * [Paragraph types](entities/paragraph-types.md)
   * [Taxonomy](entities/taxonomy.md)
   * [Menus](entities/menus.md)
