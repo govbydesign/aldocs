@@ -39,12 +39,15 @@ This is the highest type of alert which informs visitors of a highly critical me
 1. From your website's administrative toolbar (top of your site), click the **Content** link
 2. Click the **Add content** button
 3. Click **Alert** from the available options
-4. Fill-out the Title of the alert. This is a required field.
-5. The **Activate this alert** toggle allows you to turn the Alert on/off. In some cases you may have an alert that needs to be temporarily turned off. When you are ready to display it again, you turn it back on. Or, you may type an alert ahead of time and keep it off until is time to display it.
-6. **Summary**: Since the space for the Alert is limited, the Summary field allows you to type a condensed version of the message. This message should be short but descriptive enough.
-7. **Body**: This is where you can type a long description of the alert. Here you can add images and other HTML elements.
-8. **Attachments:** If your alert has a supporting document to go with, like a PDF attachment, you can upload the document to it. So if a local rule changed, you could attached the updated version of the local rule in PDF format.
-9. Press **Save**. You should now be able to see the alert on your site.
+4. The **Activate this alert** toggle allows you to turn the Alert on/off. In some cases you may have an alert that needs to be temporarily turned off. When you are ready to display it again, you turn it back on. Or, you may type an alert ahead of time and keep it off until is time to display it.
+5. Fill-out the Title of the alert. This is a required field.
+6. **Alert category:** Depending on the type of alert you are creating, select the corresponding category. The category determines the alert color as well as the degree of importance.
+7. **Summary**: Since the space for the Alert is limited, the Summary field allows you to type a condensed version of the message. This message should be short but descriptive enough.
+8. **Body**: This is where you can type a long description of the alert. Here you can add images and other HTML elements.
+9. **Attachments:** If your alert has a supporting document to go with, like a PDF attachment, you can upload the document to it. So if a local rule changed, you could attached the updated version of the local rule in PDF format.
+10. **Frequently Asked Questions**: If you want to be proactive and provide some FAQs you think visitors may have about this alert, you can do so here.
+11. **Published**: Toggle this checkbox on/off depending on whether you want this alert to be available on the site or not. Regardless of whether it will show up at the top of the site, turn it the alert off will not make it searchable on the site.
+12. Press **Save**
 
 #### How to archive alerts?
 
