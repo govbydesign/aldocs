@@ -29,5 +29,6 @@ Although the list of components is not extensive, they have been built with many
 * [Article list](article-list.md)
 * [Content list](content-list.md)
 * [FAQs](faq.md)
+* [List slider](list-slider.md)
 * [Quicklinks](quicklinks.md)
 * [Quicklinks list](quicklinks-set.md)
