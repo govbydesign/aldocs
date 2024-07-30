@@ -12,7 +12,7 @@ The List slider component is currently only being used for Oral Histories. This 
 
 1. While on the page you wish to add the List slider, click the **Edit** tab to begin the editing process.
 2. Once you are in the edit screen, click the **Add component** button
-3. Type a heading or title for the component
+3. Type a **heading** or title for the component
 4. For **Articles**, start typing the title of the article you wish to add. You will see a list of possible articles to choose from. Chose the one you want to add from the list
 5. To add more items, click the **Add another item** button
 6. Repeat step 4 & 5 until you are satisfied with the number of items in the list

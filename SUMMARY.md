@@ -17,6 +17,7 @@
   * [List slider](components/list-slider.md)
   * [Quicklinks](components/quicklinks.md)
   * [Quicklinks set](components/quicklinks-set.md)
+  * [Embed video](components/embed-video.md)
 * [Drupal entities](entities/README.md)
   * [Content types](entities/content-types.md)
   * [Media](entities/media/README.md)

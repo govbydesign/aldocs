@@ -20,6 +20,7 @@ Although the list of components is not extensive, they have been built with many
 
 ### Media components
 
+* [Embed video](embed-video.md)
 * [Full breaker](full-breaker.md)
 * [Hero](hero.md)
 * [Icon card set](icon-card-set.md)
