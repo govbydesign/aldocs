@@ -16,6 +16,7 @@
   * [Frequently Asked Questions](components/faq.md)
   * [Quicklinks](components/quicklinks.md)
   * [Quicklinks set](components/quicklinks-set.md)
+  * [List slider](components/list-slider.md)
 * [Drupal entities](entities/README.md)
   * [Content types](entities/content-types.md)
   * [Media](entities/media/README.md)
