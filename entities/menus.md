@@ -12,6 +12,17 @@ Menus can be managed in several ways in Drupal, you can manage them directly in 
 4. Within the Menu edit page you can also disable individual links by clearing the **Enabled** checkbox
 5. Save your changes after all changes are made
 
+### Adding links to a specific menu
+
+1. Click **Structure** then **Menus**
+2. Next to the menu you wish to add the link to, click **Edit menu**
+3. Click the **Add link** button
+4. Type a **Menu link title** for your link
+5. In the **Link** field, start typing the title of the page you wish to add the link for, if this is an internal link you are creating, otherwise type the full URL of an external link
+6. Click **Save**
+7. After the link has been added, you can change the order by dragging it from its crosshair toggle to the corresponding position
+8. Click **Save** again. If you go back to the homepage and open the dropdown menu where you added the new link, you should see the new link displayed in the place where it was added.
+
 
 
 {% hint style="success" %}
