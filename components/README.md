@@ -2,7 +2,7 @@
 description: >-
   Your websites uses a modern development approach known as Component-driven
   development. This approach allows you to quickly build custom pages using
-  building blocks or components.
+  components.
 ---
 
 # Knowing your components
@@ -11,10 +11,10 @@ This section will introduce you to all the components available to you to build 
 
 Although the list of components is not extensive, they have been built with many customizations which will allow you to tailor them to your content display needs.
 
-### Simple components
+## Simple components
 
 * [Button](button.md)
-* [Custom text](custom-text.md)
+* [Fancy text](custom-text.md)
 * [Image block](image-block.md)
 * [Quote](quote.md)
 

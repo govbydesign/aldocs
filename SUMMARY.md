@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Drupal terminology](terms.md)
-* [Login](login.md)
+* [Drupal terminology](prep/terms.md)
+* [Login](prep/login.md)
 * [Knowing your components](components/README.md)
+  * [Adding component](components/components.md)
   * [Button](components/button.md)
   * [Custom text](components/custom-text.md)
   * [Embed video](components/embed-video.md)
@@ -27,6 +28,7 @@
   * [Taxonomy](entities/taxonomy.md)
   * [Users](entities/users.md)
 * [Managing Content](content/README.md)
+  * [Layout sections](content/section.md)
   * [Alert](content/alert.md)
   * [Basic page](content/basic-page.md)
   * [Landing page](content/landing-page.md)
