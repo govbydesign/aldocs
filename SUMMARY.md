@@ -3,6 +3,15 @@
 * [Welcome](README.md)
 * [Drupal terminology](prep/terms.md)
 * [Login](prep/login.md)
+
+## Essential tasks
+
+* [Adding links](tasks/README.md)
+* [Working with layout sections](tasks/sections.md)
+* [Creating Alerts](tasks/alerts.md)
+
+## Creating a new page
+
 * [Knowing your components](components/README.md)
   * [Adding component](components/components.md)
   * [Button](components/button.md)
@@ -36,5 +45,3 @@
   * [Job](content/job.md)
   * [Judge](content/judge.md)
   * [Oral History, About Building, Events/Archives](content/oral-history-about-building-events-archives.md)
-  * [Timeline](content/timeline.md)
-  * [Two-column Landing page](content/two-column-landing-page.md)

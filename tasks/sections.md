@@ -10,6 +10,7 @@ Layout sections are the base of building any page. Think of sections as layouts 
 * **Four columns**: Four equaly wide columns.
 
 ![Visual examples of sections options](../.gitbook/assets/section.png)
+
 _FIG. 1: Example of available layout sections._
 
 ## Using sections (required)
@@ -34,6 +35,7 @@ With sections, you can have a page with a mix of columns which provide flexibili
 Each layout section provides a set of styles you can use to customize the section's width, background color, top/bottom margin and padding. See **FIG. 2** below:
 
 ![Layout customization options](../.gitbook/assets/section-options.png)
+
 _FIG. 2: Layout custom styles_.
 
 ## Editing a layout section
