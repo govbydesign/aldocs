@@ -6,11 +6,11 @@
 
 ## Essential tasks
 
-* [Adding links](tasks/README.md)
+* [Adding links](tasks/links.md)
 * [Working with layout sections](tasks/sections.md)
 * [Creating Alerts](tasks/alerts.md)
 
-## Creating a new page
+<!-- ## Creating a new page
 
 * [Knowing your components](components/README.md)
   * [Adding component](components/components.md)
@@ -44,4 +44,4 @@
   * [News](content/news.md)
   * [Job](content/job.md)
   * [Judge](content/judge.md)
-  * [Oral History, About Building, Events/Archives](content/oral-history-about-building-events-archives.md)
+  * [Oral History, About Building, Events/Archives](content/oral-history-about-building-events-archives.md) -->

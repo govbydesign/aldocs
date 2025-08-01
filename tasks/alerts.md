@@ -5,16 +5,19 @@ Alerts are intended to display information, urgent messages, and or time sensiti
 ## Alerts types
 
 **Information only alert** 🔔
+
 This is the most common alert which is used simply to inform your website visitors of upcoming or non-urgent changes or updates. The updates could include local rules changes, closing of your organization due to upcoming federal holiday holiday, etc..
 
 ![Information only alert](../.gitbook/assets/alert.png)
 
 **High alert** ‼️
+
 Use this alert type to inform visitors about a scheduled maintenance or unplanned downtime of a mission critical system such as CM/ECF, PACER, or others.
 
 ![Scheduled alert](../.gitbook/assets/alert-high.png)
 
 **Critical alert** 🚨
+
 This type of alert is the most serious kind such as an active shooter scenario, pandemic or health related information, or perhaps streets or court closure due to police activity.
 
 ![Outage alert](../.gitbook/assets/alert-critical.png)
