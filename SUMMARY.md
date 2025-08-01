@@ -9,6 +9,7 @@
 * [Adding links](tasks/links.md)
 * [Working with layout sections](tasks/sections.md)
 * [Creating Alerts](tasks/alerts.md)
+* [Edit a page](tasks/page.md)
 
 <!-- ## Creating a new page
 
