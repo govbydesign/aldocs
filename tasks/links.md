@@ -28,7 +28,7 @@ For internal links, you suppress the website's full address or domain and instea
 6. When you see your page, select it. The page's URL will be displayed allowing you to confirm it is the correct page.
 7. Click the **Insert** button then save your changes.
 
-![Fig. 1. Example of adding an internal link in a text editor or WYSIWYG.](../.gitbook/assets/linkit.png)
+<figure><img src="../.gitbook/assets/linkit.png" alt="Example of adding an internal link in a text editor or WYSIWYG."><figcaption><p>Fig. 1. Example of adding an internal link in a text editor or WYSIWYG.</p></figcaption></figure>
 
 ### Adding links in a component
 
