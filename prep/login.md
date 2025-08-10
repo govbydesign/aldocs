@@ -12,3 +12,7 @@ description: >-
 4. Select the **ALMD Public website** profile (your profile name may vary).
 5. Type the **6-digit** code provided by the Duo app into the **Application verification code** field.
 6. Click **Verify.** You should be now logged in.
+
+{% hint style="info" %}
+**NOTE**: The system is configured to automatically log you out after 1 hour of inactivity as a security measure.
+{% endhint %}

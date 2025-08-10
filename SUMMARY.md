@@ -11,6 +11,10 @@
 * [Creating Alerts](tasks/alerts.md)
 * [Edit a page](tasks/page.md)
 
+## Forms, Documents & General Orders
+
+* [Working with Forms and Documents](./tasks/media.md)
+
 <!-- ## Creating a new page
 
 * [Knowing your components](components/README.md)
@@ -40,9 +44,9 @@
 * [Managing Content](content/README.md)
   * [Layout sections](content/section.md)
   * [Alert](content/alert.md)
-  * [Basic page](content/basic-page.md)
+  * [Page](content/page.md)
   * [Landing page](content/landing-page.md)
   * [News](content/news.md)
   * [Job](content/job.md)
   * [Judge](content/judge.md)
-  * [Oral History, About Building, Events/Archives](content/oral-history-about-building-events-archives.md) -->
+  * [Oral Histories](content/oral-histories.md) -->

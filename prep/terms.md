@@ -18,6 +18,8 @@ In Drupal, a block is a container of content that can be displayed on one or mor
 
 A content type in Drupal is a collection fields, that are related by context. Examples of content types include News, Job, Landing page, Oral Histories, Alet, etc.
 
+See the [Content types](../entities/content-types.md) for this site.
+
 ## Theme
 
 A Drupal theme is the interface users such as yourself of visitors of the website see when they type your website address. The theme includes a color palette, typography as well as navigation, logo, and all the other pieces or blocks that make up each page.

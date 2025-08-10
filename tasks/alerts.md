@@ -53,3 +53,7 @@ This type of alert is the most serious kind such as an active shooter scenario, 
 6. Save your changes.
 
 **Scheduling alerts** In some cases, the alerts you create can be written ahead of time and using the **Scheduling options** at the right of the page, you can set a day and time when the alert should be automatically published. This is very handy and releases some of the pressure of having to create alerts at the very last moment. Additionally, if you intend for an alert to only be visible for a given period of time, you can also schedule a day and time when the alert should automatically unpublished itself. How cool is that? 🙌
+
+{% hint style="info" %}
+**NOTE**: Alerts are dismissible which means a visitor can choose to close the alert so it does not display again once they have read it.
+{% endhint %}
