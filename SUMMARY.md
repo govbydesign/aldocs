@@ -15,8 +15,11 @@
 
 * [Working with Forms and Documents](./tasks/documents.md)
 
-<!-- ## Creating a new page
+## Menus & Links
 
+* [Working with Menus](./tasks/menus.md)
+
+<!-- ## Creating a new page
 * [Knowing your components](components/README.md)
   * [Adding component](components/components.md)
   * [Button](components/button.md)

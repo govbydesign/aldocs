@@ -27,3 +27,21 @@ Menus can be managed in several ways in Drupal, you can manage them directly in 
 1. After the link has been added, you can change the order by dragging it from its crosshair toggle to the corresponding position
 1. Click **Save** again.
 1. Visit the menu where the new link was added to confirm it works as expected.
+
+## Adding links to menus during content creation
+
+Probably the most common way for adding links to menus is while you create content liks pages, news, alerts, jobs, etc.
+
+1. From the admin toolbar, click **Content** then **Add content**.
+1. Click **Page** as the type of content to create. Adding a menu link works the same for any type of content.
+1. On the right sidebar of the Create page, scroll to the **Menu settings** section and expand it.
+1. Toggle On the **Provide a menu link** toggle
+1. By default, the _Menu link title_ will always be the title of the page. In most cases you should keep it this way.
+1. The _Description_ is optional but it's a helpful hint for when you hover over the link.
+1. Select the menu you wish to add the link to from the **Parent link**.
+1. The weight determines the order in which the link will display within the menu. The higher the number, the lower it will be in the menu order (low weight = light, higher weight = heavier and drops tot he bottom.)
+1. That's how a link is added to a menu during content creation.
+
+![Adding a menu link](../.gitbook/assets/menu.png)
+
+_Adding a menu link while creating a page._
