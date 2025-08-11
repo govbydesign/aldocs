@@ -4,10 +4,11 @@ PDF documents are widely used on Intranet websites.  The following instructions 
 
 ### Naming your document prior to uploading
 
-Naming documents should be done using a consistent methodology.  This will result in visitors having a good user experience when viewing and downloading your documents.  Here are some basic guidelines for naming documents:
+Naming documents should be done using a consistent methodology.  This will result in visitors having a good user experience when viewing and downloading your documents.  Here are some basic guidelines for naming documents files:
 
 * Always use lower-case for the name.
-* Never use underscores (\_), spaces, or symbols (i.e. #, $, %, &, etc.), when naming a document.
+*
+* Avoid using underscores (\_), spaces, or symbols (#, $, %, &, (), @, etc.), when naming a document.
 * It's okay to use numbers as part of the document name.
 * There should only be one period on the name, the one just before the document extension (i.e. **.pdf**)
 * Always use hyphen/dash to separate words (i.e. **how-to-properly-reboot-your-pc.pdf**)
