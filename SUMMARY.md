@@ -11,9 +11,9 @@
 * [Creating Alerts](tasks/alerts.md)
 * [Edit a page](tasks/page.md)
 
-## Forms, Documents & General Orders
+## Forms & Documents
 
-* [Working with Forms and Documents](./tasks/media.md)
+* [Working with Forms and Documents](./tasks/documents.md)
 
 <!-- ## Creating a new page
 
