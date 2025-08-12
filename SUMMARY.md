@@ -19,6 +19,10 @@
 
 * [Working with Menus](./tasks/menus.md)
 
+## Landing page
+
+* [Working with Menus](./tasks/landing.md)
+
 <!-- ## Creating a new page
 * [Knowing your components](components/README.md)
   * [Adding component](components/components.md)
