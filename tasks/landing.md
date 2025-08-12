@@ -1,8 +1,10 @@
-# Working with Menus
+# Working with Landing pages
 
 A landing page is a very important type of page. It serves as the main destination for a website's section. For example, if you click either _Home_, _For Attorneys_, _Judges_, \_Clerk's Services, _Jurors_, or any of the main navigation's links, you will land on a "Landing page" (no pun intended).
 
-It may seem intimidating and even too dificult to build, but as you will see, building a landing page is nothing more than breaking the page down into sections and decide what components or building blocks go into each section.
+<figure><img src="../.gitbook/assets/landing.jpg" alt="" width="375"><figcaption><p>Prototype of homepage landing page.</p></figcaption></figure>
+
+It may seem intimidating and even too difficult to build, but as you will see, building a landing page is nothing more than breaking the page down into sections and decide what components or building blocks go into each section.
 
 ## Creating a landing page
 
